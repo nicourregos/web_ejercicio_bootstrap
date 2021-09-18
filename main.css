@@ -1,0 +1,37 @@
+.edge {
+	color: white;
+	background-color: rgb(91,73,61);
+}
+
+#leftmenu {
+	color: black;
+	background-color: rgb(247,153,73);
+}
+
+#topmenu {
+	color: black;
+	background-color: rgb(190,143,127);
+}
+
+.maincontent{
+    padding-top: 2cm;
+    padding-bottom: 2cm;
+	background-color: whitesmoke;
+}
+
+.photoodd{
+	background-color: palevioletred;
+}
+
+.photoeven{
+	background-color: lightseagreen;
+}
+
+#banner{
+    padding-top: 0.5cm;
+    padding-bottom: 0.5cm;
+}
+
+#mcC{
+    background-color: white;
+}
